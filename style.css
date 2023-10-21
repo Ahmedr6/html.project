@@ -1,0 +1,109 @@
+
+
+
+.bg-dark{
+background-color: aqua;    
+}
+
+a:visited{
+color: rgb(5, 4, 5);
+
+}
+
+a:hover{
+color: aqua;
+
+}
+a:active{
+
+    color: burlywood;
+}
+
+p{
+    text-align: left;
+    font-size: larger;
+    border: 2px solid;
+}
+p{
+    margin: 20px; 
+}
+
+p{
+  font-size:x-large;  
+    
+}
+p{
+    background-color: sandybrown;
+}
+img{
+  
+    padding-left: 23px;
+    
+}
+h1{
+  border: 1px solid;
+  background-color: rgb(208, 246, 246); 
+}
+a{
+   
+    font-size: large;
+}
+h3{
+border: 2px solid;
+font-style:oblique;
+background-color: rgb(182, 182, 122);
+}
+section{
+    background-color: rgba(137, 116, 116, 0.625);
+  padding:1px ;
+
+}
+.bg-bb{
+    border: 2px solid;
+    background-color: rgb(162, 195, 222);
+    margin-left: 20px;
+    
+    
+}
+table{
+    background-color: rgb(131, 149, 143) ;
+}
+nav{
+    background-color: rgb(30, 45, 208);
+    height: 80px;
+    width: 100%;
+
+}
+label.logo{
+color: white;
+font-size: 35px;
+line-height: 80px;
+padding:0 100px;
+font-weight: bold;
+}
+
+nav ul{
+    
+    float:right;
+    margin-right: 20px;
+   
+}
+ 
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 5px;
+    padding-bottom: ;
+    
+  
+}
+nav ul li a{
+color:white;
+font-size: 17px;
+text-transform: uppercase;
+
+}
+p{
+
+    font-family: 'Roboto', sans-serif;
+}
